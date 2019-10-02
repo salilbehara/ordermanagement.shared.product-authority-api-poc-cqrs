@@ -1,0 +1,1 @@
+# ordermanagement.shared.product-authority-api-poc-cqrs
